@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Managing Authorizations](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Managing Authorizations](https://github.com/YawCyberShield/Manage-Authorization)
 
 <h2>📺 Certifications </h2>
 
