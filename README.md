@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - [Managing Authorizations](https://github.com/YawCyberShield/Manage-Authorization)
+ - [Filter-With-AND-OR-and-NOT](https://github.com/YawCyberShield/Filter-with-AND-OR-and-NOT)
 
 <h2>📺 Certifications </h2>
 
